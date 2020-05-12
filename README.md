@@ -2,7 +2,7 @@
 
 > Simple example of React using Typescript notation
 
-![Header](meta/Header.png)
+![Header](meta/header.png)
 
 
 ## Requirements
